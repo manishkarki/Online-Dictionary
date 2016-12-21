@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 19, 2016, 5:06:14 PM
+    Author     : Manish
+*/
+body{
+    width: 1024px;
+    margin: 0 auto;
+    background-color: rgb(124, 27, 27);
+    color: white;
+}
+
+header h2{
+    font-size: 20px;
+    margin-top: -20px;
+    color: rgb(196, 152, 58);
+}
+
+li{
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+#meaning{
+    background-color: rgb(183, 66, 66);
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+/*dt{
+    border-top: 1px grey solid;
+}*/
+
